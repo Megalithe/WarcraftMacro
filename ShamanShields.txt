@@ -1,0 +1,5 @@
+#showtooltip 
+/script UIErrorsFrame:Hide()
+/castsequence [mod:alt,@player] reset=5 Lightning Shield, Earth Shield; [known: Water Shield,@player] reset=5  Water Shield,Earth Shield; [@player]Lightning Shield, Earth Shield
+/use item:35227
+/use  item:138490

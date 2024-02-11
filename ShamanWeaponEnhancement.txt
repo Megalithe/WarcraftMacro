@@ -1,0 +1,5 @@
+#showtooltip
+/castsequence [mod:shift] Flametongue Weapon; [known: Earthliving Weapon] Earthliving Weapon; Flametongue Weapon;
+/use item:35227
+/use  item:138490
+/script UIErrorsFrame:Hide()

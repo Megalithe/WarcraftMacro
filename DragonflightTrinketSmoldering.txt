@@ -1,0 +1,5 @@
+#showtooltip
+/use item:207170
+/targetexact Treant Seedling
+/focus
+/castsequence reset=5 Riptide, Chain Heal, Chain Heal, Chain Heal, Chain Heal, Chain Heal

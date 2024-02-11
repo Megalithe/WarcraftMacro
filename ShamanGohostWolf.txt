@@ -1,0 +1,3 @@
+/stopcasting
+#showtooltip
+/cast Ghost Wolf

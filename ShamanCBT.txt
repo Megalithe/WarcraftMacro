@@ -1,0 +1,2 @@
+#showtooltip 
+/castsequence [known: 157153] reset=6 Cloudburst Totem, Riptide, Chain Heal, Unleash Life, Chain Heal, Cloudburst Totem; Healing Stream Totem

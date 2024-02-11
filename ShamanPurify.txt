@@ -1,0 +1,3 @@
+#showtooltip Purify Spirit
+/stopcasting
+/cast [@mouseover,help,nodead][help,nodead][@player] Purify Spirit
