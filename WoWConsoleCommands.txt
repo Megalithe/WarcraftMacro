@@ -1,0 +1,2 @@
+/console turnspeed 480
+/console screenshotQuality 10
