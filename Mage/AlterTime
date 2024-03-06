@@ -1,0 +1,3 @@
+#showtooltip Alter Time
+/castsequence reset=3 alter time, null, null
+/use [mod:alt] Alter Time
