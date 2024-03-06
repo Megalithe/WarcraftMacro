@@ -1,0 +1,3 @@
+#showtooltip 
+/script UIErrorsFrame:Hide()
+/castsequence [known:192058,108285] reset=5  Capacitor Totem, Totemic Recall, Capacitor Totem; [known:108285]Totemic Recall; [known: 192058]Capacitor Totem; Warstomp

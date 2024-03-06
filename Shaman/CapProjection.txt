@@ -1,2 +1,0 @@
-#showtooltip
-/castsequence [known:192058, 108285] reset= 6 Capacitor Totem, Totemic Recall, Capacitor Totem, War Stomp; [known: 108287] Totemic Projection
