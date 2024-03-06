@@ -1,0 +1,5 @@
+#showtooltip Control Undead
+/target pet
+/run PetDismiss()
+/use Control Undead
+/petassist
