@@ -1,4 +1,3 @@
 #showtooltip
-/stopcasting
 /cast Ice Block
-/cancelaura Ice Block
+/cancelaura [mod:alt] Ice Block
