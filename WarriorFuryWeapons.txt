@@ -1,0 +1,4 @@
+#showtooltip
+/stopcasting
+/cast [stance:1/2] Berserker Stance
+/equipset Fury

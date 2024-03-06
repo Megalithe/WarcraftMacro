@@ -1,0 +1,7 @@
+#showtooltip Recklessness
+/use Recklessness
+/use Blood Fury
+/use Berserking
+/use Ancestral Call
+/use 13
+/use 14

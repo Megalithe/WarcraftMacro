@@ -1,0 +1,2 @@
+#showtooltip
+/cast [worn:shields] Shield Slam; [noworn:shield] Raging Blow

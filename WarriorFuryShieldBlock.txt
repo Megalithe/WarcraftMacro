@@ -1,0 +1,5 @@
+#showtooltip Shield Block
+/stopcasting
+/cast [stance:2/2] Defensive Stance
+/equipset FuryDef
+/cast Shield Block
