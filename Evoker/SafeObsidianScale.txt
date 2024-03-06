@@ -1,0 +1,2 @@
+#showtooltip
+/castsequence reset=2 Obsidian Scales, 5
