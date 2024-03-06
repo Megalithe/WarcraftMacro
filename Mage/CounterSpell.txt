@@ -1,0 +1,3 @@
+#showtooltip Counterspell
+/stopcasting
+/cast Counterspell
